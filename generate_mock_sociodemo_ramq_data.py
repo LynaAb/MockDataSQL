@@ -99,7 +99,7 @@ for _ in range(20):
         'Adresse': adresse,
         'No_dossier': no_dossier,
         'Territoire_CLSC': territoire_clsc,
-        'Motif': "Tumeur à son petit cerveau",
+        'Motif': "Motif temporaire",
         'RAMQ': ramq,
         'Charlson_Score': charlson_score,
         **comorbidities  # Add all comorbidities to the dataset
